@@ -60,5 +60,4 @@ async function (event){
     }
 })
 
-//I can log in with username and password but both user take on only one location, they both link to employee location
-//
+//approve and deny: no program
