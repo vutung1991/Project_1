@@ -12,10 +12,12 @@ The back-end system shall use JDBC to connect to a Postgres database. The middle
 
 
 #Login Page
-(./imgs/login.png)
+
+![](/login.png)
 
 #Register Page
-(./imgs/register.png)
+
+![](/register.png)
 
 ## Getting Started
 
